@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ASP.NET1",
+    "\\ASP.NET1\\Controllers",
+    "\\ASP.NET1\\obj",
+    "\\ASP.NET1\\obj\\Debug",
+    "\\ASP.NET1\\Views",
+    "\\ASP.NET1\\Views\\Home",
+    "\\ASP.NET1\\Views\\Shared",
+    "\\config",
+    "\\DesignTimeBuild"
+  ],
+  "SelectedNode": "\\ASP.NET1\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
